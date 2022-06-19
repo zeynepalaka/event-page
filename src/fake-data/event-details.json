@@ -1,0 +1,12 @@
+{
+    "id": 3,
+    "title": "etkinlik 1",
+    "startDate": "9-06-2022",
+    "endDate": "15-06-2022",
+    "categoryId":3,
+    "details":"lorem ipsum",
+    "city":"Gaziantep",
+    "place":"Şahinbey",
+    "activity":"Tiyatro",
+    "pictures":["https://picsum.photos/200/300","https://picsum.photos/200/300"]
+}
