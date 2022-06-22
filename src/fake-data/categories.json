@@ -1,18 +1,18 @@
 [
     {
         "id": 1,
-        "title": "başlık 1"
+        "title": "Konser"
     },
     {
         "id": 2,
-        "title": "başlık 2"
+        "title": "Tiyatro"
     },
     {
         "id": 3,
-        "title": "başlık 3"
+        "title": "Resim"
     },
     {
         "id": 4,
-        "title": "başlık 4"
+        "title": "Sinema"
     }
 ]
