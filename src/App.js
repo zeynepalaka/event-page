@@ -1,14 +1,8 @@
 import React from "react";
 import "./App.scss";
-import {
-  BrowserRouter,
-  Route,
-  Link,
-  Routes,
-  useParams
-} from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 
-import {Home} from "./pages/Home";
+import { Home } from "./pages/Home";
 import { Event } from "./pages/Event";
 
 export default function App() {
@@ -23,4 +17,3 @@ export default function App() {
     </BrowserRouter>
   );
 }
-
